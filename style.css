@@ -1,0 +1,45 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: system-ui;
+  font-size: 1.1rem;
+  color: #3c4257;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background: #0e0e10;
+    color: #efeff1;
+  }
+}
+
+main {
+  max-width: 50ch;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+a {
+  color: #0092e0;
+}
+
+a:hover {
+  color: #0071ad;
+}
+
+dd {
+  margin-bottom: 20px;
+}
+
+h1,
+h2 {
+  text-align: center;
+  font-weight: 500;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #dbdbdb;
+  margin: 0 150px;
+}

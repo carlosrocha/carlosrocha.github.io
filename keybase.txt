@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/carlosrochaf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rocha.dev
+  * I am carlosrochaf (https://keybase.io/carlosrochaf) on keybase.
+  * I have a public key with fingerprint 5206 7231 D66A F159 109A  1656 B0A3 69F5 47B9 6E74
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012db7319266814dbd67229d51f2d89ae7f0d51ac4722028dc3acac39b5a4883090a",
+      "fingerprint": "52067231d66af159109a1656b0a369f547b96e74",
+      "host": "keybase.io",
+      "key_id": "b0a369f547b96e74",
+      "kid": "01012db7319266814dbd67229d51f2d89ae7f0d51ac4722028dc3acac39b5a4883090a",
+      "uid": "680f9f842163e537a68b89c39ea71f00",
+      "username": "carlosrochaf"
+    },
+    "merkle_root": {
+      "ctime": 1564242190,
+      "hash_meta": "39306759a9f416efd0782c964e5e564f482c770d5d3cd614a298ddd26ac9d34d",
+      "seqno": 5865648
+    },
+    "revoke": {
+      "sig_ids": [
+        "4da4b6948cbb4811a9f7c5b74158d492ec512018f3f4a1db027989a32f0fbbac0f"
+      ]
+    },
+    "service": {
+      "hostname": "rocha.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1564242192,
+  "expire_in": 157680000,
+  "prev": "6cef48fe0c85d59a58034b7eed9f563b320df826f563adb28fecca68fb5c3ce0",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMK4AnicrZNdiFVVFMfvZJbeCoeKoUb6OiEWDNPe++yzz97XiTLHgQpNfYmYGS/7
+68wc7se5c865ty46MFMGo2E6Lw0oFJajJvRgMBZlaHYL0ZceUnzIBwUjaOgLR6mY
+aJ2LEUSPnZfDWvzXWv/9W3u37lqSy3fY5pEXZ1Yvebzj3OlGPTfcN9a5zVGRaTqF
+bU7Jtn+2bGySFkuhcQoOwggTo3wXC8IYx9Qow3xChPFwQAwX0voBgkBqCmlEuNGu
+1FK7QnmScu4igaTT4wRhdcTGtTisptDWIwi6uNgwJgPsCYyExMxjCkmXicCjvhLM
++hQKR6MkqwBzSia2N4wgB0Gxbe8/9P+z73q7HeMoEAGnBDPXeq4vGVdcgNhKHwcI
+ZcLExlVZsaDWMi5HSRzpURk44z1Oxcalsi3GUZRmgHUaZjLsMUqgo0BwSJmMFis2
+lVDtChfgeEKKgGJmA4N8TrRg1HoWSgIKke+Dd+NqwzCVRHBjDGFSC+NSA14SO1aN
+nILHASnl4CC2jahks+FJOALoEqcw6FAjqWKCcq0U5RjDQF97yqfY44YKYrWHCcI8
+cAMqsVGI+ALAuSRAgVJSo8AZHs+GxY1Qt5tnu7rJoH36XmMbYKcWR2mkozKkR9O0
+lhQyKGmzluletqp4s0NRhVUD1wQqGjZOwqgKkED5b16kx7Gv1MLYFsNM4fmwHfiy
+OTAOlqUtQAos0twzwNHjyKXKt9bATWGucgkyAScsC6RRBKRaw0YD5WlXW/QPQA42
+5Qi0BGpVmdZj64yfPjV0a64jn7tt6S3Z88nll3f+/aimyrcvdk7cd+PJ0rU36Vjn
+t7u/+nF+0+Sp994fWGht37Tjrfon90zuvKjyjxxf+dyz0U9/nB3Y+sFs74fPr7z2
++UPTL106tP/shFz355bFKw/febD7WP1C9+DcL61oTXShdG9zxlt7/saGZ15YGGet
+7w5vfTVc/Xrl+OWFqVXv7tvVenT2owPd30/1Vvv7djd/XuZfbR48/86xvUMrJub2
+jV9NF5NPa9d/449Nr4ve/mHt8hUjl5fuqXw9uGNy5pvWyd/X7/y4/sUTd3/mPth/
+pv/pX9EDA5cGOy7uuuPcydmn4hY5en2ha/614Y6x7X1fbthz5tDE/NHNB07MnZhW
+9/eXuvz1G5eFV9Ycyaer3jjctX9o71+xwn8M
+=M/ue
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/carlosrochaf
+
+==================================================================
